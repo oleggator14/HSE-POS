@@ -1,0 +1,8 @@
+# Результаты сборки
+bin/
+obj/
+
+# Служебные файлы Visual Studio
+.vs/
+*.user
+*.suo
